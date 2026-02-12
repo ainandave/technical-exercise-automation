@@ -1,4 +1,4 @@
-# Amaysim QA Automation Technical Exercise
+# QA Automation Technical Exercise
 
 ## Overview
 
@@ -61,4 +61,5 @@ mvn clean test
 
 
 ### Author
+
 * Ainan Dave Dominguez

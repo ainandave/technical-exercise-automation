@@ -42,9 +42,7 @@ You can configure:
 To toggle headless mode:
 
 headless=true
-
 or
-
 headless=false
 
 ---
@@ -63,3 +61,4 @@ mvn clean test
 ### Author
 
 * Ainan Dave Dominguez
+
